@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Portfolio CV Banner](https://via.placeholder.com/1200x400/0A66C2/FFFFFF?text=Portfolio+CV+Template)
+![Portfolio CV Banner](https://github.com/patrik-fredon/portfolio-cv/blob/master/public/images/fredon-portfolio-banner.png)
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 [![Next.js](https://img.shields.io/badge/Next.js-15.2.1-black)](https://nextjs.org/)
