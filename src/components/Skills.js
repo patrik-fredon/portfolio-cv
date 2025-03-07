@@ -19,7 +19,7 @@ const Skills = () => {
           <h2 className="text-3xl font-bold mb-4">My Skills</h2>
           <div className="w-20 h-1 bg-blue-600 dark:bg-blue-400 mx-auto mb-6"></div>
           <p className="max-w-2xl mx-auto text-gray-600 dark:text-gray-400">
-            Technologies and tools I've worked with.
+            Technologies and tools I&apos;ve worked with.
           </p>
         </motion.div>
 

@@ -9,7 +9,8 @@
     "lint": "next lint",
     "analyze": "ANALYZE=true next build",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
-    "prepare": "husky install"
+    "postinstall": "npm run prepare-husky || true",
+    "prepare-husky": "husky"
   },
   "dependencies": {
     "react": "^19.0.0",

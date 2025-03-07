@@ -126,10 +126,10 @@ const Contact = () => {
             <div className="mt-8 p-6 bg-white dark:bg-gray-900 rounded-lg shadow-lg border border-gray-100 dark:border-gray-800">
               <h4 className="text-lg font-medium mb-4">Availability</h4>
               <p className="text-gray-600 dark:text-gray-400 mb-2">
-                I'm currently available for freelance work and full-time positions.
+                I&apos;m currently available for freelance work and full-time positions.
               </p>
               <p className="text-gray-600 dark:text-gray-400">
-                If you have a project that needs some creative work, I'd love to hear about it!
+                If you have a project that needs some creative work, I&apos;d love to hear about it!
               </p>
             </div>
           </motion.div>

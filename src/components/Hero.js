@@ -25,7 +25,7 @@ const Hero = () => {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5 }}
           >
-            <h2 className="text-blue-600 dark:text-blue-400 font-bold mb-4">Hello, I'm</h2>
+            <h2 className="text-blue-600 dark:text-blue-400 font-bold mb-4">Hello, I&apos;m</h2>
             <h1 className="text-4xl lg:text-6xl font-bold mb-4">{basic.name}</h1>
             <h3 className="text-2xl lg:text-3xl text-gray-700 dark:text-gray-300 mb-6">{basic.title}</h3>
             <p className="text-gray-600 dark:text-gray-400 mb-8 max-w-2xl">
